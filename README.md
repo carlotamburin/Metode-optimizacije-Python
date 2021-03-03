@@ -1,2 +1,2 @@
-# Python-vje-be
-Vježbanje u pythonu, fokus na teoriju grafova.
+# Python practices
+Practicing python and Graph theory.
